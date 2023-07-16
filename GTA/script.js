@@ -58,7 +58,7 @@ const options = {
     physics: {
         barnesHut: {
             damping: 0.08,
-            maxVelocity:100,
+            maxVelocity:40,
         }
     },
     nodes: {
